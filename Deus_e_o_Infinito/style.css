@@ -76,11 +76,6 @@ article {
   padding: 10px;
 }
 
-article h1 {
-  all: unset;
-  font-size: 20px;
-}
-
 article p {
   font-size: 20px;
   text-align: justify;
