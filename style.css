@@ -39,7 +39,7 @@ header p {
 
 
 nav {
-  height: 320px;
+  height: 370px;
   background: #1C1F22;
   padding: 1px 8px;
   margin-top: 5px;
@@ -81,22 +81,22 @@ table {
   border: 1px solid gray;
 }
 
-td {
+table td {
   border: 1px solid gray;
 }
 
 table caption {
-  font-size: 21px;
+  font-size: 22px;
   color: white;
 }
 
-a {
+table a {
   text-decoration: none;
   color: white;
-  font-size: 18px;
+  font-size: 22px;
 }
 
-a:hover {
+table a:hover {
   text-decoration: underline;
   color: yellow;
 }
