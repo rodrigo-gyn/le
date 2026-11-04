@@ -95,22 +95,6 @@ table a:hover {
   color: yellow;
 }
 
-article {
-  background: #ffffa2;
-  margin-bottom: 10px;
-  padding: 10px;
-}
-
-article h1 {
-  all: unset;
-  font-size: 20px;
-}
-
-article p {
-  font-size: 20px;
-  text-align: justify;
-}
-
 footer {
   background-color: #777;
   padding: 1px;
