@@ -1,0 +1,124 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+
+  /* Define a imagem de fundo */
+  background-image: url('kardec.png');
+
+  /* Faz a imagem cobrir toda a tela sem distorcer */
+  background-size: cover;
+
+  /* Impede que a imagem fique se repetindo */
+  background-repeat: no-repeat;
+
+  /* Centraliza a imagem na tela */
+  background-position: center;
+
+  /* Deixa a imagem fixa ao rolar a página (opcional) */
+  background-attachment: fixed;
+
+  /* Remove margens padrão do navegador */
+  margiopacity: 0.5;
+  n: 0;
+  height: 100vh;
+}
+
+main {
+  opacity: 0.7;
+}
+
+header {
+  background-color: #666;
+  padding: 1px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+}
+
+
+nav {
+  height: 320px;
+  background: #1C1F22;
+  padding: 1px 8px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+div audio {
+  margin-top: 7px;
+}
+
+nav ul {
+  list-style-type: none;
+  display: block;
+  padding-left: 5px;
+  text-align: center;
+}
+
+
+nav li {
+  display: inline-block;
+  margin-right: 5px;
+
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+  display: block;
+  font-size: 18px;
+}
+
+nav a:hover {
+  color: yellow;
+  text-decoration: underline;
+}
+
+table {
+  width: 100%;
+  border: 1px solid gray;
+}
+
+td {
+  border: 1px solid gray;
+}
+
+table caption {
+  font-size: 20px;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: yellow;
+}
+
+article {
+  background: #ffffa2;
+  height: 300px;
+  font-size: 18px;
+  text-align: justify;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 10px;
+}
+
+article h1 {
+  all: unset;
+  font-size: 18px;
+}
+
+footer {
+  background-color: #777;
+  padding: 1px;
+  text-align: center;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+}
