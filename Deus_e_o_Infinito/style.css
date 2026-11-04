@@ -15,10 +15,7 @@ body {
 
   /* Deixa a imagem fixa ao rolar a página (opcional) */
   background-attachment: fixed;
-
-  /* Remove margens padrão do navegador */
-  margiopacity: 0.5;
-  n: 0;
+  
   height: 100vh;
 }
 
