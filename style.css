@@ -30,22 +30,17 @@ header {
   background-color: #666;
   padding: 1px;
   text-align: center;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: bold;
   color: white;
 }
 
 
 nav {
-  height: 320px;
   background: #1C1F22;
   padding: 1px 8px;
   margin-top: 5px;
   margin-bottom: 10px;
-}
-
-div audio {
-  margin-top: 7px;
 }
 
 nav ul {
@@ -74,29 +69,49 @@ nav a:hover {
   text-decoration: underline;
 }
 
+div audio {
+  margin-top: 7px;
+}
+
+nav ul {
+  list-style-type: none;
+  display: block;
+  padding-left: 5px;
+  text-align: center;
+}
+
+
+nav li {
+  display: inline-block;
+  margin-right: 5px;
+
+}
+
 table {
   width: 100%;
   border: 1px solid gray;
 }
+
+table a:hover {
+  color: yellow;
+  text-decoration: underline;
+}
+
 
 td {
   border: 1px solid gray;
 }
 
 table caption {
-  font-size: 20px;
+  font-size: 24px;
   color: white;
 }
 
-a {
+
+table a {
   text-decoration: none;
   color: white;
-  font-size: 18px;
-}
-
-a:hover {
-  text-decoration: underline;
-  color: yellow;
+  font-size: 22px;
 }
 
 article {
