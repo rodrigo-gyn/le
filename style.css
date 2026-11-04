@@ -34,12 +34,18 @@ header {
 }
 
 header p {
+<<<<<<< HEAD
   font-size: 24px;
+=======
+  font-size: 22px;
 }
 
 
 nav {
+<<<<<<< HEAD
   height: 400px;
+=======
+  height: 370px;
   background: #1C1F22;
   padding: 1px 8px;
   margin-top: 5px;
