@@ -31,32 +31,16 @@ header {
   margin-bottom: 5px;
 }
 
-nav {
-  background: #1C1F22;
-  margin-bottom: 5px;
-}
-
-nav ul {
+ul {
   list-style-type: none;
   display: block;
   padding-left: 5px;
   text-align: center;
 }
 
-nav li {
+li {
   display: inline-block;
   margin-right: 10px;
-}
-
-nav a {
-  text-decoration: none;
-  color: white;
-  display: block;
-}
-
-nav a:hover {
-  color: yellow;
-  text-decoration: underline;
 }
 
 article {
